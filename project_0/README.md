@@ -2,9 +2,9 @@
 
 
 ## Contents
-[1. Project description](...#Project-description)
+[1. Project description](https://github.com/VladislavShumskiy/Course/blob/main/project_0/README.md#Project-description)
 
-[2. Case being solved](...#Cases-being-solved)
+[2. Case being solved](https://github.com/VladislavShumskiy/Course/blob/main/project_0/README.md#Cases-being-solved)
 
 [3. Brief data information](...#Brief-data-information)
 
