@@ -39,6 +39,7 @@ def alg_score(guessing_function, sample_size:int = 100)->int:
           score_list.append(guessing_function(ans)) #add a score to the list
           
      return mean(score_list) #returns the average of the scores in the list
-
-avg_score = alg_score(guess, 10000)
-print(f'Your algorithm takes an average of {avg_score} tries to reach the correct answer.')
+ 
+if __name__ == "__main__":
+    avg_score = alg_score(guess, 10000)
+    print(f'Your algorithm takes an average of {avg_score} tries to reach the correct answer.')
