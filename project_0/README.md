@@ -47,12 +47,16 @@ The result is judjed by the number of tries it takes our program to reach the co
 
 
 ### Result
-....
+**Algorythms average scores:**
+- Random guessing ~ 100
+- Improved random guessing ~ 7.5
+- Binary search ~ 5.8
 
 :arrow_up: [To the contents](#contents)
 
 
 ### Conclusions
-....
+Random guessing takes on average as many tries as there are total possibilities for the correct answer, as expected.
+While taking into account the relative position of the answer relative to the guess at each random guess drastically reduces the number of steps required it is still more efficient to use the binary search.
 
 :arrow_up: [To the contents](#contents)
