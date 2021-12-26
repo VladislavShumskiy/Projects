@@ -2,23 +2,23 @@
 
 
 ## Contents
-[1. Project description](https://github.com/VladislavShumskiy/Course/blob/main/project_0/README.md#Project-description)
+[1. Project description](#project-description)
 
-[2. Case being solved](https://github.com/VladislavShumskiy/Course/blob/main/project_0/README.md#Cases-being-solved)
+[2. Case being solved](#cases-being-solved)
 
-[3. Brief data information](https://github.com/VladislavShumskiy/Course/blob/main/project_0/README.md#Brief-data-information)
+[3. Brief data information](#brief-data-information)
 
-[4. Steps in the work on the project](https://github.com/VladislavShumskiy/Course/blob/main/project_0/README.md#Steps-in-the-work-on-the-project)
+[4. Steps in the work on the project](#steps-in-the-work-on-the-project)
 
-[5. Result](https://github.com/VladislavShumskiy/Course/blob/main/project_0/README.md#Result)
+[5. Result](#result)
 
-[6. Conclusions](https://github.com/VladislavShumskiy/Course/blob/main/project_0/README.md#Conclusions)
+[6. Conclusions](#conclusions)
 
 
 ### Project desription
 The task is to guess the random number from 1 to 100 as fast as possible.
 
-:arrow_up: [To the contents](https://github.com/VladislavShumskiy/Course/blob/main/project_0/README.md#Contents)
+:arrow_up: [To the contents](#contents)
 
 
 ### Case being solved
@@ -31,28 +31,28 @@ It's required to write a program capable of guessing a random number in the mini
 **Result metrics:**
 The result is judjed by the number of tries it takes our program to reach the correct result on average given 1000 attempts.
 
-:arrow_up: [To the contents](https://github.com/VladislavShumskiy/Course/blob/main/project_0/README.md#Contents)
+:arrow_up: [To the contents](#contents)
 
 
 ### Brief data information
 ....
 
-:arrow_up: [To the contents](https://github.com/VladislavShumskiy/Course/blob/main/project_0/README.md#Contents)
+:arrow_up: [To the contents](#contents)
 
 
 ### Steps in the work on the project
 ....
 
-:arrow_up: [To the contents](https://github.com/VladislavShumskiy/Course/blob/main/project_0/README.md#Contents)
+:arrow_up: [To the contents](#contents)
 
 
 ### Result
 ....
 
-:arrow_up: [To the contents](https://github.com/VladislavShumskiy/Course/blob/main/project_0/README.md#Contents)
+:arrow_up: [To the contents](#contents)
 
 
 ### Conclusions
 ....
 
-:arrow_up: [To the contents](#Contents)
+:arrow_up: [To the contents](#contents)
