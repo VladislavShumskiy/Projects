@@ -55,4 +55,4 @@ The result is judjed by the number of tries it takes our program to reach the co
 ### Conclusions
 ....
 
-:arrow_up: [To the contents](https://github.com/VladislavShumskiy/Course/blob/main/project_0/README.md#Contents)
+:arrow_up: [To the contents](#Contents)
