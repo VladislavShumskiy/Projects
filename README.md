@@ -1,3 +1,3 @@
 # My projects
 
-* [Project 0: Guess the number game](https://github.com/VladislavShumskiy/Course/tree/main/project_0)
+* [Project 0. Game: Guess the number](https://github.com/VladislavShumskiy/Course/tree/main/project_0)
