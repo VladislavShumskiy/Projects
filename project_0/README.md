@@ -26,6 +26,11 @@ It's required to write a program capable of guessing a random number in the mini
 **Result metrics:**  
 The result is judjed by the number of tries it takes our program to reach the correct result on average given 1000 attempts.
 
+**Three algorythms are being compared:**
+- The first one takes random guesses untill it stumbles upon a correct answer.  
+- The second one rakes random guesses while taking into account whether the last guess was higher or lower than the correct answer.  
+- The third one does a binary search for a correct answer.
+
 :arrow_up: [To the contents](#contents)
 
 
@@ -36,10 +41,7 @@ The result is judjed by the number of tries it takes our program to reach the co
 
 
 ### Steps in the work on the project
-**Three algorythms are being compared:**
-- The first one takes random guesses untill it stumbles upon a correct answer.  
-- The second one rakes random guesses while taking into account whether the last guess was higher or lower than the correct answer.  
-- The third one does a binary search for a correct answer.
+....
 
 :arrow_up: [To the contents](#contents)
 
