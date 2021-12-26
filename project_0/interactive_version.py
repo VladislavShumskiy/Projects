@@ -1,6 +1,6 @@
 import numpy as np
 
-correct_answer = np.random.randint(1,1001) #creating a random correct answer for the game between 1 and 1000
+correct_answer = np.random.randint(1,101) #creating a random correct answer for the game between 1 and 100
 counter = 0 # Keeps track of the number of guesses the player takes
 
 while True:
