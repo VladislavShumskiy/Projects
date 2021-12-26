@@ -4,7 +4,7 @@
 ## Contents
 [1. Project description](#project-description)
 
-[2. Case being solved](#cases-being-solved)
+[2. Case being solved](#case-being-solved)
 
 [3. Brief data information](#brief-data-information)
 
@@ -15,7 +15,7 @@
 [6. Conclusions](#conclusions)
 
 
-### Project desription
+### Project description
 The task is to guess the random number from 1 to 100 as fast as possible.
 
 :arrow_up: [To the contents](#contents)
