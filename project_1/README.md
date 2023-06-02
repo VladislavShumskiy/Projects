@@ -56,7 +56,7 @@ https://drive.google.com/file/d/1xpi9MRYt0yb_dD8pz0uSTUmgfwe4oWxU/view?usp=shari
 
 
 ## Содержание
-[1. Описание проекта](#project-description)  
+[1. Описание проекта](#Описание-проекта)  
 [2. Brief data information](#brief-data-information)  
 [3. Steps in the work on the project](#steps-in-the-work-on-the-project)  
 [4. Conclusions](#conclusions)
