@@ -1,9 +1,9 @@
 # My projects
 
 * [Project 0. Game: Guess the number](https://github.com/VladislavShumskiy/Course/tree/main/project_0)
-* [Project 1. Headhunter vacancies analysis](https://github.com/VladislavShumskiy/Projects/tree/main/project_1)
-* [Project 2. Headhunter vacancies analysis](https://github.com/VladislavShumskiy/Projects/tree/main/project_1)
-* [Project 3. Headhunter vacancies analysis](https://github.com/VladislavShumskiy/Projects/tree/main/project_3)
+* [Project 1. Headhunter vacancies analysis in Python](https://github.com/VladislavShumskiy/Projects/tree/main/project_1)
+* [Project 2. Headhunter vacancies analysis in SQL](https://github.com/VladislavShumskiy/Projects/tree/main/project_1)
+* [Project 3. EDA + Feature Engineering](https://github.com/VladislavShumskiy/Projects/tree/main/project_3)
 * [Project 4. Headhunter vacancies analysis](https://github.com/VladislavShumskiy/Projects/tree/main/project_4)
 * [Project 5. Headhunter vacancies analysis](https://github.com/VladislavShumskiy/Projects/tree/main/project_5)
 * [Project 6. Headhunter vacancies analysis](https://github.com/VladislavShumskiy/Projects/tree/main/project_6)
